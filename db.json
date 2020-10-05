@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thinh Nguyen",
+      "email": "gaupoit@gmail.com",
+      "address": "77 bis 3 thang 2"
+    },
+    {
+      "id": 2,
+      "name": "Hung Nguyen",
+      "email": "hung@gmail.com",
+      "address": "Novandland"
+    }
+  ],
+  "farms": [
+   {
+     "id": 1,
+     "name": "Vườn lan số 1",
+     "email": "lan1@gmail.com",
+     "address": "1 Nguyễn Du",
+     "author": 1
+   },
+   {
+     "id": 2,
+     "name": "Vườn lan số 2",
+     "email": "lan2@gmail.com",
+     "address": "2 Nguyễn Du",
+     "author": 2
+   }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
