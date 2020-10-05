@@ -3,14 +3,32 @@
     {
       "id": 1,
       "name": "Thinh Nguyen",
+      "username": "gaupoit",
       "email": "gaupoit@gmail.com",
-      "address": "77 bis 3 thang 2"
+      "address": {
+        "street": "Xo Viet Nghe Tinh",
+        "suite": "Suite 879",
+        "city": "Sai Gon",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+      } 
     },
     {
       "id": 2,
       "name": "Hung Nguyen",
+      "username": "hungnguyen",
       "email": "hung@gmail.com",
-      "address": "Novandland"
+      "address": {
+        "street": "Novaland",
+        "suite": "Suite 879",
+        "city": "Sai Gon",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+      }
     }
   ],
   "farms": [
